@@ -1,2 +1,3 @@
-# 2MT
-Nigel &amp; Benedict
+# Welcome!
+#### We love programming
+**Nigel** &amp; __Benedict__
