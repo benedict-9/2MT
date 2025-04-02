@@ -1,3 +1,3 @@
 # Welcome!
 #### We love programming
-**Nigel** &amp; __Benedict__
+**Nigel** &amp; _Benedict_
